@@ -464,11 +464,11 @@ I'm interested in collaborating on:
 
 <p align="center">
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+<a href="https://www.linkedin.com/in/mdsuhailkhan/">
   <img src="https://img.shields.io/badge/LinkedIn-Md%20Suhail%20Khan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/kmdsuhail72">
   <img src="https://img.shields.io/badge/GitHub-Md%20Suhail%20Khan-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
