@@ -392,11 +392,11 @@ DevSecOps
 
 <p align="center">
 
-<img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=for-the-badge&logo=github&label=Followers" alt="GitHub followers" />
+<img src="https://img.shields.io/github/followers/kmdsuhail72?style=for-the-badge&logo=github&label=Followers" alt="GitHub followers" />
 
-<img src="https://img.shields.io/github/last-commit/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME?style=for-the-badge&logo=github&label=Profile%20Updated" alt="Profile repository last commit" />
+<img src="https://img.shields.io/github/last-commit/kmdsuhail72/kmdsuhail72?style=for-the-badge&logo=github&label=Profile%20Updated" alt="Profile repository last commit" />
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=kmdsuhail72&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
 
 </p>
 
@@ -418,7 +418,7 @@ DevSecOps
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+<img src="https://streak-stats.demolab.com?user=kmdsuhail72&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 
 </p>
 
@@ -428,7 +428,7 @@ DevSecOps
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub contribution graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kmdsuhail72&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub contribution graph" />
 
 </p>
 
